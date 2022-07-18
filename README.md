@@ -24,7 +24,7 @@ You are responsible for detailing the README.md with general application informa
 - CI/CD Pipeline using AWS Elastic Beanstalk for Deployment
 - GitHub (*Each team must maintain a repository to which all members contribute*)
 - Unit Tests & Logging
-- Roadmap Presentation
+- Presentation
   > Present your app with a slide show and talk us through any extra technologies you implemented either within your application or to track the progress of your sprint.
 <br>
 
